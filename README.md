@@ -1,4 +1,4 @@
-This project follows a systematic analytical pipline to enure robust results. The following priorities have been established:
+This project follows a systematic analytical pipline to enure robust results. The following priorities have been established
 1. Priority 1:Urban Heat Isalnd(UHI) Analysis
    - Focus: Mapping surface temperature anomalies in the Greater Los Angeles area using Landsat 8/9 imagery.
    - Goal:Quantify the heat intensity and identify spatial clusters of extreme heat.
