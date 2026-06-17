@@ -19,5 +19,6 @@ These particles are so small that they can get deep into your lungs and blood. T
 A gas from burning fuel, mainly from cars.
 This is a clear indicator of traffic. If you see high levels of NO2, it usually means there is a lots of traffic or heavy industry nearby. It is key ingredient in creating smog
 
+This project uses ArcGIS Pro to carry out detailed spatial analysis and create high-quality maps, ensuring accurate environmental representation. At the same time, Python is used to process data and build a reproducible workflow for analysis.
 Language:Python
 Core LIbraries: rasterio(satellite image processing), pandas(time-series sensor data), numpy(numerical analysis)
