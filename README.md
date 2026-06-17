@@ -17,4 +17,4 @@ Very tiny, dangerou dust particles in teh air.
 These particles are so small that they can get deep into your lungs and blood. They are usually caused by car exhaust, constructuion, or wildfires. Because they are invisible, we use sensors to track where they are most concentrated.
 (3)NO2
 A gas from burning fuel, mainly from cars.
-This is a clear indicator of traffic. If you see high levels of NO2, it usually means there is a lots of traffic or heavy industry nearby. It is key ingredient in creating smog.
+This is a clear indicator of traffic. If you see high levels of NO2, it usually means there is a lots of traffic or heavy industry nearby. It is key ingredient in creating smog
