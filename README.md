@@ -19,9 +19,5 @@ These particles are so small that they can get deep into your lungs and blood. T
 A gas from burning fuel, mainly from cars.
 This is a clear indicator of traffic. If you see high levels of NO2, it usually means there is a lots of traffic or heavy industry nearby. It is key ingredient in creating smog
 
-
-Data sources:
-- Landsat8/9 Imagery: OBtained from USGS EarthExplorer.
-- Air Quality Data: Sourced from the South Coast AQMD Data Portal.
 Language:Python
 Core LIbraries: rasterio(satellite image processing), pandas(time-series sensor data), numpy(numerical analysis)
