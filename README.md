@@ -21,4 +21,4 @@ This is a clear indicator of traffic. If you see high levels of NO2, it usually 
 
 This project uses ArcGIS Pro to carry out detailed spatial analysis and create high-quality maps, ensuring accurate environmental representation. At the same time, Python is used to process data and build a reproducible workflow for analysis.
 Language:Python
-Core LIbraries: rasterio, pandas, numpy
+[Core LIbraries: rasterio, pandas, numpy]
