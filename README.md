@@ -6,8 +6,8 @@ This project follows a systematic analytical pipline to enure robust results. Th
    -Focus: Analyzing long-term trends in PM2.5 and N02 concentration using South Coast AQMD sensor data.
    - Goal: Correlate high-pollution zones with ocalized urban density and infrastructure.
 3 Priority 3: Vegetation & Land Cover Change Detection
-   -Focus: Quanitfying shifts in NDVI values to evaluate the impact of urbanization and drought on green space.
-   -Goal: Identify areas undergoing significant enviromental degradation for potential conservation planning.
+   -Focus: Quanitfying shifts in NDVI values to evaluate the impact of urbanization and drought on green space
+   -Goal: Identify areas undergoing significant enviromental degradation for potential conservation planning
 Word
 (1)Landsat 8/9 Imagery
 Satellite photos that see more than just colors.
